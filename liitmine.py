@@ -7,5 +7,3 @@ def funktsioon(a,b):
     print (a+b)
 
 funktsioon(a,b)
-
-muutsin
